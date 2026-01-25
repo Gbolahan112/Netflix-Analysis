@@ -11,5 +11,12 @@ In a highly competitive retail landscape, operational efficiency and the ability
 This repository contains data analytics projects, insights, and tools designed to help Urban & Co. 
 optimize operations, understand customer behavior, improve category performance, and drive data-informed decision-making across all business units.
 
+# Business Goal
+* Sales Trend Insights: Identify patterns in sales performance, customer distribution, and product demand to support smarter business decisions.
+* Balanced Category Growth: Ensure steady performance across clothing, electronics, and beauty to avoid over-reliance on any single category.
+* Stronger Customer Engagement: Improve loyalty and encourage repeat purchases through better understanding of customer behavior.
+* Sales & Quantity Analysis: Explore how units sold influence revenue across categories to refine pricing and stocking strategies.
+* Profit Margin Optimization: Increase profitability by analyzing the gap between revenue and costs and identifying improvement opportunities.
+
 
 
